@@ -5,16 +5,9 @@ body {
     padding: 0;
 }
 header {
-    background: #91a9ff;
+    background: #91a9ffa8;
     color: #fff;
     padding: 1rem 0;
-    text-align: center;
-    border: 3px dotted #ffffff;
-}
-h1 {
-    text-align: center;
-}
-h2 {
     text-align: center;
 }
 nav a {

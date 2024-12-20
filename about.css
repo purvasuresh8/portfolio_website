@@ -1,11 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
 }
 header {
-    background: #7de4af;
+    background: #91a9ffa8;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
